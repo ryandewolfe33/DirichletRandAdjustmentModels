@@ -1,10 +1,11 @@
-name = "DirichletRandRandomModels"
-uuid = "edb9ae08-98fc-4535-bc7b-43b5fa0191ff"
+name = "DirichletRandAdjustmentModels"
+uuid = "699b5568-aed3-4457-a744-fcaf8aa2ea7c"
 authors = ["Ryan DeWolfe <ryandewolfe33@gmail.com> and contributors"]
 version = "1.0.0"
 
 [deps]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+FuzzyClusteringSimilarity = "edb9ae08-98fc-4535-bc7b-43b5fa0191ff"
 GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 JLD = "4138dd39-2aa7-5051-a626-17a0bb65d9c8"
